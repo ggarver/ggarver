@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ggarver
-- 👀 I’m interested in learning more!
 - 📫 How to reach me: gmgarver@willamette.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/they
 
 <!---
 ggarver/ggarver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
